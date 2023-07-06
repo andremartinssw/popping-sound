@@ -1,0 +1,6 @@
+asyncio==3.4.3
+pyngrok==5.2.1
+python-dotenv==1.0.0
+pywav==1.1
+signalwire==2.0.4
+websockets==11.0.3
